@@ -16,10 +16,12 @@
     ],
     "HowToAcknowledge": "Hennessee, J. P., Katen, C., Wig, G. S., Kennedy, K. M., Moore, W., Rofsky, N., Rodrigue, K. M., Tamminga, C., Chan, M. Y., & Park, D. C. (2023). The Dallas Lifespan Brain Study. OpenNeuro. [Dataset] doi: doi:10.18112/openneuro.ds004215.v1.0.2",
     "Acknowledgements": "We thank the former lab members and associates who have made this research possible, and who are listed in the Keys to the Kingdom. In addition, we thank the participants who generously contributed their time and effort to this project",
-    "ReferencesAndLinks": ["Please see the beginning of the README for a list of references."],
+    "ReferencesAndLinks": [
+        "Please see the beginning of the README for a list of references."
+    ],
     "DatasetDOI": "10.1016/j.neuroimage.2014.09.056",
     "Funding": [
-        "NIH National Institues on Aging 5R37AG-006265-27, RC1AG036199"
+        "NIH National Institutes on Aging 5R37AG-006265-27, RC1AG036199"
     ],
     "EthicsApprovals": [
         "The University of Texas Southwestern Medical Center Institutional Review Board (IRB #s: STU 072010-112, 072010-219, 092015-003)"
