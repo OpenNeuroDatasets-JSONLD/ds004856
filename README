@@ -88,7 +88,7 @@ The MRI protocol included the following scans (duration in parentheses):
 
 ## MRI Notes
 
-Five dummy volumes were discarded at scan time to allow for T1 stabilization. Participants with second MPRAGE run by wave: wave 1 (752), wave 2 (4868), wave 3 (208, 503, 557, 684, 688, 772, 1093, 1245)
+Five dummy volumes were discarded at scan time to allow for T1 stabilization. Some participants had a second MPRAGE or FLAIR acquisition due to motion artifacts in their first scan. Participants with second MPRAGE run by wave: wave 1 (752), wave 2 (4868), wave 3 (208, 503, 557, 684, 688, 772, 1093, 1245)
 Participants with second FLAIR run by wave: wave 1 (754, 779, 2872, 3693), wave 2 (196, 200, 2127, 2133), wave 3 (12, 934, 988, 1767, 2872, 4315)
 
 
