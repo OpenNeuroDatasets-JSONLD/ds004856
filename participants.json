@@ -103,9 +103,39 @@
          "7":"MD/JD/PhD/other advanced degree"}
    },
    "HandednessScore":{
-      "LongName":"Handedness Score",
+      "LongName":"Handedness score",
       "Description":"Average score of participant hand preference on the Edinburgh Handedness Inventory. Higher scores indicate preference for the right hand during various tasks (0 = Always left; 1 = Usually left; 2 = No preference; 3 = Usually right; 4 = Always right)",
       "Units":"total score (0-4)"
+   },
+   "Height_W1":{
+      "LongName":"Height wave 1",
+      "Description":"Participant height at wave 1",
+      "Units":"inches"
+   },
+   "Weight_W1":{
+      "LongName":"Weight wave 1",
+      "Description":"Participant weight at wave 1",
+      "Units":"pounds"
+   },
+   "BMI_W1":{
+      "LongName":"Body mass index wave 1",
+      "Description":"Participant body mass index (BMI) at wave 1",
+      "Units":"BMI units (kg/m^2)"
+   },
+   "Height_W2":{
+      "LongName":"Height wave 2",
+      "Description":"Participant height at wave 2",
+      "Units":"inches"
+   },
+   "Weight_W2":{
+      "LongName":"Weight wave 2",
+      "Description":"Participant weight at wave 2",
+      "Units":"pounds"
+   },
+   "BMI_W2":{
+      "LongName":"Body mass index wave 2",
+      "Description":"Participant body mass index (BMI) at wave 2",
+      "Units":"BMI units (kg/m^2)"
    },
    "MMSE_W1":{
       "LongName":"MMSE score wave 1",
