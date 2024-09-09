@@ -1,3 +1,5 @@
+1.0.4 2024-09-09
+  - Changed filename of the Keys to the Kingdom document to align with BIDS formatting guidelines
 1.0.3 2024-09-09
   - Removed references to the Executive Function construct, which was not included in the published database due to incompleteness - from the Keys to the Kingdom document
   - Corrected cognitive construct numbering in the Readme file to match those used in the database and Keys to the Kingdom documentation
