@@ -46,17 +46,18 @@ At each wave of data collection, a comprehensive cognitive battery was administe
 1) *Speed of Processing*: Digit Comparison, WAIS-III Digit Symbol, NIH Toolbox Pattern Comparison Processing Speed Test 
 	
 2) *Working Memory*: CANTAB Spatial Working Memory, WAIS-III Letter Number Sequencing Task, Operation Span Task, NIH Toolbox List Sorting, CANTAB Delayed Matching to Sample Task, CANTAB Spatial Recognition Memory Task 	
+
+4) *Episodic Memory*: Hopkins Verbal Learning Immediate & Delayed, CANTAB Verbal Recognition Memory, Woodcock-Johnson Memory for Names Immediate & Delayed, Wechsler Memory Scale Logical Memory, NIH Toolbox Picture Sequence Memory
 	
-3) *Episodic Memory*: Hopkins Verbal Learning Immediate & Delayed, CANTAB Verbal Recognition Memory, Woodcock-Johnson Memory for Names Immediate & Delayed, Wechsler Memory Scale Logical Memory, NIH Toolbox Picture Sequence Memory
+5) *Reasoning*: Raven’s Matrices, ETS Letter Sets, CANTAB Stockings of Cambridge, Everyday Problem Solving 
 	
-4) *Reasoning*: Raven’s Matrices, ETS Letter Sets, CANTAB Stockings of Cambridge, Everyday Problem Solving 
+6) *Vocabulary*: Educational Testing Service Advanced Vocabulary, Shipley Vocabulary, CANTAB Graded Naming Task, NIH Toolbox Oral Reading Recognition Test, NIH Toolbox Picture Vocabulary 
 	
-5) *Vocabulary*: Educational Testing Service Advanced Vocabulary, Shipley Vocabulary, CANTAB Graded Naming Task, NIH Toolbox Oral Reading Recognition Test, NIH Toolbox Picture Vocabulary 
-	
-6) *Verbal Fluency*: Controlled Oral Word Association (FAS), Controlled Oral Association: Categories
+7) *Verbal Fluency*: Controlled Oral Word Association (FAS), Controlled Oral Association: Categories
 
 Unavailable data points in the corresponding files are reported as "NA". Scores for participants that did not return for that wave are entered as "xx". 
-	
+
+Note: Construct numbering skips "3", as  a seventh construct (Executive Function) was included in the original design of the DLBS, but was dropped from the study due to persistent data collection and task availability issues. The partial data for this construct are not included in this dataset, but can be made available upon request.
 	
 ## Surveys (/surveys)
 
