@@ -3,24 +3,9 @@
 
 The Dallas Lifespan Brain Study (DLBS) is a longitudinal multi-modal neuroimaging study of the aging mind, which was initiated in 2008 (referred to as Wave 1). Participants returned for two additional waves of data collection with an approximate interval of 4-5 years between waves. The DLBS protocol encompasses various imaging modalities, including structural MRI, diffusion MRI, and functional MRI, as well as comprehensive cognitive and psychosocial assessments. Additionally, amyloid and tau PET imaging were performed as part of the study. This data set was among the pioneering long-duration longitudinal studies that investigated MRI metrics related to brain aging, PET biomarkers associated with Alzheimer's disease, and cognition across the entire adult lifespan (ranging from ages 20-90). Moreover, it was one of the earliest cognitive aging studies to include in vivo measurement of tauopathy using PET imaging with radiotracer AV-1451, also known as flortaucipir.
 
-For detailed information on the data acquisition methods employed in the DLBS, please refer to the relevant studies cited below, as well as our comprehensive document titled “Keys to the Kingdom”. Inquiries should be directed to *dlbs@utdallas.edu*
+For detailed information on the data acquisition methods employed in the DLBS, please refer to our comprehensive document titled “Keys to the Kingdom”. Methodological references are also included at the end of this document.
 
-**Cognitive battery**: McDonough, I.M., Bischof, G.N., Kennedy, K.M., Rodrigue, K.M., Farrell, M.E., & Park, D.C. (2016). Discrepancies between fluid and crystallized ability in healthy adults: a behavioral marker of preclinical Alzheimer's disease. Neurobiology of aging, 46, 68-75. https://doi.org/10.1016/j.neurobiolaging.2016.06.011
-
-*fMRI semantic judgments (words task)*: Kennedy, K.M., Rodrigue, K.M., Bischof, G.N., Hebrank, A.C., Reuter-Lorenz, P.A., Park, D.C., 2015. Age trajectories of functional activation under conditions of low and high processing demands: An adult lifespan fMRI study of the aging brain. NeuroImage 104, 21–34. https://doi.org/10.1016/j.neuroimage.2014.09.056
-
-*fMRI episodic memory (scenes task)*: Chen, X., Farrell, M.E., Rundle, M.M., Chan, M.Y., Moore, W., Wig, G.S., & Park, D.C. (2021). The relationship of functional hippocampal activity, amyloid deposition, and longitudinal memory decline to memory complaints in cognitively healthy older adults. Neurobiology of aging, 105, 318-326. https://doi.org/10.1016/j.neurobiolaging.2021.04.020
-
-*fMRI dedifferentiation (ventral visual task)*: Park, J., Carp, J., Kennedy, K.M., Rodrigue, K.M., Bischof, G.N., Huang, C.M., ... & Park, D.C. (2012). Neural broadening or neural attenuation? Investigating age-related dedifferentiation in the face network in a large lifespan sample. Journal of Neuroscience, 32(6), 2154-2158. https://doi.org/10.1523/JNEUROSCI.4494-11.2012
-
-*Resting-state imaging*: Chan, M.Y., Park, D.C., Savalia, N.K., Petersen, S.E., & Wig, G.S. (2014). Decreased segregation of brain systems across the healthy adult lifespan. Proceedings of the National Academy of Sciences, 111(46), E4997-E5006. https://doi.org/10.1073/pnas.1415122111
-
-*Arterial spin labeling imaging*: Thomas, B.P., Liu, P., Park, D.C., Van Osch, M.J., & Lu, H. (2014). Cerebrovascular reactivity in the brain white matter: magnitude, temporal characteristics, and age effects. Journal of Cerebral Blood Flow & Metabolism, 34(2), 242-247. https://doi.org/10.1038/jcbfm.2013.194
-
-*PET-amyloid imaging*: Rodrigue, K.M., Kennedy, K.M., Devous, M.D., Rieck, J.R., Hebrank, A.C., Diaz-Arrastia, R., ... & Park, D.C. (2012). β-Amyloid burden in healthy aging: regional distribution and cognitive consequences. Neurology, 78(6), 387-395. https://doi.org/10.1212/WNL.0b013e318245d295
-
-Farrell, M.E., Chen, X., Rundle, M.M., Chan, M.Y., Wig, G.S., & Park, D.C. (2018). Regional amyloid accumulation and cognitive decline in initially amyloid-negative adults. Neurology, 91(19), e1809-e1821. https://doi.org/10.1212/WNL.0000000000006469
-
+Inquiries about this dataset should be directed to: dlbs@utdallas.edu.
 
 This dataset is licensed under the [Creative Commons Zero (CC0) v1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -37,7 +22,6 @@ The “Keys to the Kingdom” is a master document that includes all the compone
 Individual differences measures for this sample are included in the participants.tsv and participants.json files. Key measures include age, sex, years of education, ethnicity, race, and the time interval between waves of data collection (in years).
 
 Unavailable data points in participants.tsv are reported as "NA". Scores for participants that did not return for that wave are entered as "xx". 
-
 
 ## Cognitive Measures (/cognition)
 
@@ -130,3 +114,23 @@ Participants had to be enrolled in the Amyloid PET Scan Study (IRB 072010-219), 
 
 Inclusion and Exclusion Criteria for waves 2 and 3:
 Participants were required to complete testing procedures for this study within a re-test interval of 2.5-11 years and not have the following exclusionary criteria: a Mini-Mental State Examination score below 22, taking sedatives/benzodiazepines/anti-psychotics, currently undergoing chemotherapy or radiation for cancer, a new history of substance abuse, recreational drug use in the past six months, central nervous system disease or brain injury that would preclude participation in this study, psychiatric or neurological disorder that would preclude participation in this study.
+
+#Methodological references:
+For detailed information on the data acquisition methods employed in the DLBS, please refer to the relevant studies cited below, as well as our comprehensive document titled “Keys to the Kingdom”
+
+**Cognitive battery**: McDonough, I.M., Bischof, G.N., Kennedy, K.M., Rodrigue, K.M., Farrell, M.E., & Park, D.C. (2016). Discrepancies between fluid and crystallized ability in healthy adults: a behavioral marker of preclinical Alzheimer's disease. Neurobiology of aging, 46, 68-75. https://doi.org/10.1016/j.neurobiolaging.2016.06.011
+
+**fMRI semantic judgments (words task)**: Kennedy, K.M., Rodrigue, K.M., Bischof, G.N., Hebrank, A.C., Reuter-Lorenz, P.A., Park, D.C., 2015. Age trajectories of functional activation under conditions of low and high processing demands: An adult lifespan fMRI study of the aging brain. NeuroImage 104, 21–34. https://doi.org/10.1016/j.neuroimage.2014.09.056
+
+**fMRI episodic memory (scenes task)**: Chen, X., Farrell, M.E., Rundle, M.M., Chan, M.Y., Moore, W., Wig, G.S., & Park, D.C. (2021). The relationship of functional hippocampal activity, amyloid deposition, and longitudinal memory decline to memory complaints in cognitively healthy older adults. Neurobiology of aging, 105, 318-326. https://doi.org/10.1016/j.neurobiolaging.2021.04.020
+
+**fMRI dedifferentiation (ventral visual task)**: Park, J., Carp, J., Kennedy, K.M., Rodrigue, K.M., Bischof, G.N., Huang, C.M., ... & Park, D.C. (2012). Neural broadening or neural attenuation? Investigating age-related dedifferentiation in the face network in a large lifespan sample. Journal of Neuroscience, 32(6), 2154-2158. https://doi.org/10.1523/JNEUROSCI.4494-11.2012
+
+**Resting-state imaging**: Chan, M.Y., Park, D.C., Savalia, N.K., Petersen, S.E., & Wig, G.S. (2014). Decreased segregation of brain systems across the healthy adult lifespan. Proceedings of the National Academy of Sciences, 111(46), E4997-E5006. https://doi.org/10.1073/pnas.1415122111
+
+**Arterial spin labeling imaging**: Thomas, B.P., Liu, P., Park, D.C., Van Osch, M.J., & Lu, H. (2014). Cerebrovascular reactivity in the brain white matter: magnitude, temporal characteristics, and age effects. Journal of Cerebral Blood Flow & Metabolism, 34(2), 242-247. https://doi.org/10.1038/jcbfm.2013.194
+
+**PET-amyloid imaging**: Rodrigue, K.M., Kennedy, K.M., Devous, M.D., Rieck, J.R., Hebrank, A.C., Diaz-Arrastia, R., ... & Park, D.C. (2012). β-Amyloid burden in healthy aging: regional distribution and cognitive consequences. Neurology, 78(6), 387-395. https://doi.org/10.1212/WNL.0b013e318245d295
+
+Farrell, M.E., Chen, X., Rundle, M.M., Chan, M.Y., Wig, G.S., & Park, D.C. (2018). Regional amyloid accumulation and cognitive decline in initially amyloid-negative adults. Neurology, 91(19), e1809-e1821. https://doi.org/10.1212/WNL.0000000000006469
+
