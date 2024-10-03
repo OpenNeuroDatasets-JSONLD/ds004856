@@ -1,3 +1,6 @@
+1.1.0 2024-10-03
+  - Survey data (health, psychosocial, AD screening) uploaded to the /surveys directory
+  - Added email for general inquiries (dlbs@utdallas.edu)
 1.0.4 2024-09-09
   - Changed filename of the Keys to the Kingdom document to align with BIDS formatting guidelines
 1.0.3 2024-09-09
