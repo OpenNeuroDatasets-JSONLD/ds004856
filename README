@@ -23,7 +23,7 @@ Individual differences measures for this sample are included in the participants
 
 Unavailable data points in participants.tsv are reported as "NA". Scores for participants that did not return for that wave are entered as "xx". 
 
-## Cognitive Measures (/phenotype/cognition)
+## Cognitive Measures (/phenotype)
 
 At each wave of data collection, a comprehensive cognitive battery was administered over two testing sessions. The cognitive measures were categorized into six distinct constructs:
 
@@ -43,7 +43,7 @@ Unavailable data points in the corresponding files are reported as "NA". Scores 
 
 Note: Construct numbering skips "3", as  a seventh construct (Executive Function) was included in the original design of the DLBS, but was dropped from the study due to persistent data collection and task availability issues. The partial data for this construct are not included in this dataset, but can be made available upon request.
 	
-## Surveys (/phenotype/surveys)
+## Surveys (/phenotype)
 
 At each wave of data collection, a battery of surveys was administered either in-person following cognitive testing (Wave 1) or online typically within a week of cognitive testing (Waves 2-3). These surveys cover various domains related to physical health, mental health, and psychosocial aspects:
 
@@ -77,7 +77,7 @@ Five dummy volumes were discarded at scan time to allow for T1 stabilization. So
 Participants with second FLAIR run by wave: wave 1 (754, 779, 2872, 3693), wave 2 (196, 200, 2127, 2133), wave 3 (12, 934, 988, 1767, 2872, 4315)
 
 
-## Structural MRI volume estimates (/phenotype/brainsummary)
+## Structural MRI volume estimates (/phenotype)
 
 For all three waves of DLBS data collection, MRI scans were processed cross-sectionally through Freesurfer ver. 5.3 with regional parcellations based on the Desikan-Killiany atlas. Extensively trained operators inspected the reconstructed white and grey matter surfaces and performed manual edits when necessary. Quality control was extensive. A second highly trained and independent group reviewed each parcellation for accuracy. A wide variety of derived Freesurfer measures, such as cortical thickness and grey matter volume, are included in the derivatives directory. The complete Freesufer-processed scan data, which are produced after running recon-all, are not included here and only extracted values are provided.
 
