@@ -1,3 +1,7 @@
+1.3.0 2025-07-10
+  - Update PET image json header (mismatch FrameDuration and FrameTimesStart fields)
+  - Update KTTK documentation PDF
+  - Moved spreadsheet summary into /derivatives
 1.2.0 2024-10-10
   - Uploaded EPrime files for each fMRI task in the /eprime directory
   - Minor formatting changes to the Readme
