@@ -21,9 +21,9 @@
   "AcquisitionNumber": 2001,
   "ImageComments": "_Frame_1_of_2_AC_CT_Brain_2.0_H19f_Volume_Scaled",
   "RadionuclidePositronFraction": 0.9673,
-  "RadionuclideTotalDose": 3.9627E+8,
+  "RadionuclideTotalDose": 396270000,
   "RadionuclideHalfLife": 6586.2,
-  "DoseCalibrationFactor": 3.32842E+7,
+  "DoseCalibrationFactor": 33284200,
   "SliceThickness": 2,
   "MultibandAccelerationFactor": 111,
   "ReconMatrixPE": 128,
@@ -160,7 +160,7 @@
   "SpecificRadioactivity": "n/a",
   "SpecificRadioactivityUnits": "n/a",
   "TimeZero": "14:39:06",
-  "InjectionStart": -3.0E+6,
+  "InjectionStart": -3000000,
   "FrameDuration": [
     300000,
     300000

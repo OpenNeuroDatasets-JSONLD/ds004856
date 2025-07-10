@@ -20,9 +20,9 @@
   "AcquisitionNumber": 2001,
   "ImageComments": "CTMATCH_CT_Brain_2MM_H10s",
   "RadionuclidePositronFraction": 0.97,
-  "RadionuclideTotalDose": 3.7518E+8,
+  "RadionuclideTotalDose": 375180000,
   "RadionuclideHalfLife": 6586.2,
-  "DoseCalibrationFactor": 3.24481E+7,
+  "DoseCalibrationFactor": 32448100,
   "SliceThickness": 3,
   "MultibandAccelerationFactor": 74,
   "ReconMatrixPE": 128,
@@ -122,10 +122,9 @@
   "SpecificRadioactivity": "n/a",
   "SpecificRadioactivityUnits": "n/a",
   "TimeZero": "15:34:58",
-  "InjectionStart": -3.0E+6,
+  "InjectionStart": -3000000,
   "FrameDuration": [
-    600000,
-    0
+    600000
   ],
   "Units": "Bq/mL",
   "ScanStart": 0,
@@ -149,8 +148,7 @@
   "ReconFilterSize": 3,
   "AttenuationCorrection": "measured,AC_CT",
   "FrameTimesStart": [
-    0,
-    600000
+    0
   ],
   "FrameDurationUnits": "ms"
 }

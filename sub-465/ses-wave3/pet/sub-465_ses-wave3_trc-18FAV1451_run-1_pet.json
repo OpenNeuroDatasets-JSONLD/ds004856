@@ -18,9 +18,9 @@
   "AcquisitionTime": "16:21:40.000000",
   "Radiopharmaceutical": "[18F]Florbetaben",
   "RadionuclidePositronFraction": 0.967,
-  "RadionuclideTotalDose": 3.848E+8,
+  "RadionuclideTotalDose": 384800000,
   "RadionuclideHalfLife": 6586.2,
-  "DoseCalibrationFactor": 4.49359E+6,
+  "DoseCalibrationFactor": 4493590,
   "Units": "Bq/mL",
   "DecayCorrection": "START",
   "AttenuationCorrectionMethod": "measured,, 0.000000 cm-1, attenuation smooth",
@@ -46,10 +46,9 @@
   "SpecificRadioactivity": "n/a",
   "SpecificRadioactivityUnits": "n/a",
   "TimeZero": "16:21:40",
-  "InjectionStart": -4.8E+6,
+  "InjectionStart": -4800000,
   "FrameDuration": [
-    1.2E+6,
-    0
+    1200000
   ],
   "ScanStart": 0,
   "ImageDecayCorrected": true,
@@ -73,7 +72,6 @@
   "AttenuationCorrection": "measured,AC_CT",
   "FrameDurationUnits": "ms",
   "FrameTimesStart": [
-    0,
-    1.2E+6
+    0
   ]
 }

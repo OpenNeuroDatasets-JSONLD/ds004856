@@ -18,9 +18,9 @@
   "AcquisitionTime": "14:00:13.000000",
   "Radiopharmaceutical": "TAU",
   "RadionuclidePositronFraction": 0.967,
-  "RadionuclideTotalDose": 4.0071E+8,
+  "RadionuclideTotalDose": 400710000,
   "RadionuclideHalfLife": 6586.2,
-  "DoseCalibrationFactor": 4.48132E+6,
+  "DoseCalibrationFactor": 4481320,
   "Units": "Bq/mL",
   "DecayCorrection": "START",
   "AttenuationCorrectionMethod": "measured,, 0.000000 cm-1, attenuation smooth",
@@ -46,10 +46,9 @@
   "SpecificRadioactivity": "n/a",
   "SpecificRadioactivityUnits": "n/a",
   "TimeZero": "14:00:13",
-  "InjectionStart": -4.8E+6,
+  "InjectionStart": -4800000,
   "FrameDuration": [
-    1.2E+6,
-    0
+    1200000
   ],
   "ScanStart": 0,
   "ImageDecayCorrected": true,
@@ -73,7 +72,6 @@
   "AttenuationCorrection": "measured,AC_CT",
   "FrameDurationUnits": "ms",
   "FrameTimesStart": [
-    0,
-    1.2E+6
+    0
   ]
 }

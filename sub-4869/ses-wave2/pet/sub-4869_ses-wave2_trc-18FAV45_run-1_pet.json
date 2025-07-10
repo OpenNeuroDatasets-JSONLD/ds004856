@@ -20,9 +20,9 @@
   "AcquisitionNumber": 2001,
   "ImageComments": "AC_CT_Volume_Scaled",
   "RadionuclidePositronFraction": 0.97,
-  "RadionuclideTotalDose": 3.959E+8,
+  "RadionuclideTotalDose": 395900000,
   "RadionuclideHalfLife": 6586.2,
-  "DoseCalibrationFactor": 3.32799E+7,
+  "DoseCalibrationFactor": 33279900,
   "SliceThickness": 2,
   "MultibandAccelerationFactor": 111,
   "ReconMatrixPE": 128,
@@ -159,10 +159,10 @@
   "SpecificRadioactivity": "n/a",
   "SpecificRadioactivityUnits": "n/a",
   "TimeZero": "14:48:01",
-  "InjectionStart": -3.0E+6,
+  "InjectionStart": -3000000,
   "FrameDuration": [
-    600000,
-    0
+    300000,
+    300000
   ],
   "Units": "Bq/mL",
   "ScanStart": 0,
@@ -187,7 +187,7 @@
   "AttenuationCorrection": "measured,AC_CT",
   "FrameTimesStart": [
     0,
-    600000
+    300000
   ],
   "FrameDurationUnits": "ms"
 }

@@ -16,14 +16,14 @@
     "PRIMARY"
   ],
   "SeriesNumber": 4,
-  "AcquisitionTime": "15:56:1.999990",
+  "AcquisitionTime": "16:22:2.000020",
   "AcquisitionNumber": 2001,
   "ImageComments": "AC_CT, Volume Scaled",
   "Radiopharmaceutical": "Solution",
   "RadionuclidePositronFraction": 0.97,
-  "RadionuclideTotalDose": 3.8258E+8,
+  "RadionuclideTotalDose": 305620000,
   "RadionuclideHalfLife": 6586.2,
-  "DoseCalibrationFactor": 3.34288E+7,
+  "DoseCalibrationFactor": 33438200,
   "ConvolutionKernel": "XYZ Gauss3.00",
   "Units": "Bq/mL",
   "DecayCorrection": "START",
@@ -61,8 +61,8 @@
   "ModeOfAdministration": "bolus",
   "SpecificRadioactivity": "n/a",
   "SpecificRadioactivityUnits": "n/a",
-  "TimeZero": "15:56:01",
-  "InjectionStart": -4.8E+6,
+  "TimeZero": "16:22:02",
+  "InjectionStart": -4800000,
   "ScanStart": 0,
   "ImageDecayCorrected": true,
   "ImageDecayCorrectionTime": 0,
@@ -84,10 +84,10 @@
   "ReconFilterSize": 3,
   "AttenuationCorrection": "measured,AC_CT",
   "FrameTimesStart": [
-    149.605,
-    449.605,
-    749.605,
-    1049.61
+    0,
+    300000,
+    600000,
+    900000
   ],
   "FrameDurationUnits": "ms"
 }

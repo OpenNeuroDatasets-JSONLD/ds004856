@@ -14,9 +14,9 @@
   "SeriesNumber": 1,
   "AcquisitionTime": "15:26:9.033000",
   "RadionuclidePositronFraction": 1,
-  "RadionuclideTotalDose": 3.9479E+8,
+  "RadionuclideTotalDose": 394790000,
   "RadionuclideHalfLife": 6586.2,
-  "DoseCalibrationFactor": 8.94772E+6,
+  "DoseCalibrationFactor": 8947720,
   "SliceThickness": 2.425,
   "MultibandAccelerationFactor": 63,
   "ReconMatrixPE": 128,
@@ -105,10 +105,9 @@
   "SpecificRadioactivity": "n/a",
   "SpecificRadioactivityUnits": "n/a",
   "TimeZero": "15:26:09",
-  "InjectionStart": -3.0E+6,
+  "InjectionStart": -3000000,
   "FrameDuration": [
-    600000,
-    0
+    600000
   ],
   "Units": "Bq/mL",
   "ScanStart": 0,
@@ -132,8 +131,7 @@
   "ReconFilterSize": 3,
   "AttenuationCorrection": "measured,AC_CT",
   "FrameTimesStart": [
-    0,
-    600000
+    0
   ],
   "FrameDurationUnits": "ms"
 }

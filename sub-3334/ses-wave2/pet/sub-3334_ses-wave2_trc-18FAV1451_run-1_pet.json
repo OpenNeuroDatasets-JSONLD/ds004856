@@ -15,9 +15,9 @@
   "AcquisitionTime": "14:40:12.016000",
   "Radiopharmaceutical": "F-18 Solution",
   "RadionuclidePositronFraction": 0.97,
-  "RadionuclideTotalDose": 3.9701E+8,
+  "RadionuclideTotalDose": 397010000,
   "RadionuclideHalfLife": 6586.2,
-  "DoseCalibrationFactor": 9.1389E+6,
+  "DoseCalibrationFactor": 9138900,
   "Units": "Bq/mL",
   "DecayCorrection": "START",
   "AttenuationCorrectionMethod": "ROD SOURCE",
@@ -43,10 +43,9 @@
   "SpecificRadioactivity": "n/a",
   "SpecificRadioactivityUnits": "n/a",
   "TimeZero": "14:40:12",
-  "InjectionStart": -4.8E+6,
+  "InjectionStart": -4800000,
   "FrameDuration": [
-    1.2E+6,
-    0
+    1200000
   ],
   "ScanStart": 0,
   "ImageDecayCorrected": true,
@@ -69,8 +68,7 @@
   "ReconFilterSize": 3,
   "AttenuationCorrection": "measured,AC_CT",
   "FrameTimesStart": [
-    0,
-    1.2E+6
+    0
   ],
   "FrameDurationUnits": "ms"
 }
